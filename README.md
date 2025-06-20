@@ -48,24 +48,6 @@ NeuroDesk is a smart issue tracking and support system tailored for product-base
 
 ---
 
-## 🚧 Current Progress
-
-- ✅ Project initialized in Spring Boot
-- ✅ Folder structure created
-- ⏳ User Auth module in progress
-- ⏳ Ticket schema designed
-- ⏳ Embedding logic planning
-
----
-
-## 🗓️ Week-by-Week Execution Plan (see PDF)
-- Week 1: Auth + User Roles + Ticket schema
-- Week 2: Similar Ticket AI engine
-- Week 3: Ticket status flow + assignment engine
-- Week 4: Dashboard + cleanup + polish
-
----
-
 ## 🧪 Bonus Goals
 - Dockerized setup
 - Slack/email notifications
